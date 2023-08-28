@@ -1,0 +1,46 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+background-color:darkblue;
+font-family: 'Lobster Two', cursive;
+}
+h1{
+    background-color:cornflowerblue;
+    text-align: center;
+    color:aliceblue;
+    margin-top: 0;
+    padding: 5px;
+    font-size:45px;
+}
+#status{
+    text-align: center;
+    color:aliceblue;
+   
+}
+canvas{
+    box-shadow:  10px 10px 10px grey;
+    border-radius: 15px;
+}
+
+button{
+    width:80%;
+    padding: 10px;
+    border-radius: 10px;
+    text-align:  center !important; 
+    float: none;
+    margin-left: 10%;
+    margin-bottom: 30px;
+    font-size: 15px;
+
+}
+
